@@ -1,7 +1,14 @@
 # watch-us-build-trello
+
+Install vue dev tools
+
 npm install yarn --global
 yarn --version
 https://yarnpkg.com/en/docs/install#windows-stable
+
+https://tailwindcss.com/
+
+local storage plug-in
 
 ## Project setup
 ```
